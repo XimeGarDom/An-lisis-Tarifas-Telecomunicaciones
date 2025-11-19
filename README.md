@@ -1,4 +1,4 @@
-# An-lisis-Tarifas-Telecomunicaciones
+# Análisis de Tarifas de Telecomunicaciones
 El presente proyecto tiene el objetivo de identificar las tendencias de tarifas de una compañía de telecomunicaciones. 
 Se llevaron a cabo las siguientes actividades: 
 - Procesamiento de bases de datos para identificar patrones de consumo.
